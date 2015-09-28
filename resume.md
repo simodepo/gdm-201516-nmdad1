@@ -9,7 +9,7 @@ Geen
 
 #Kennis webtechnologieën
 * Html5
-* Css
+ * Css
 * Javascript
 * Jquery
 * SQL
