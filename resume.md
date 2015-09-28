@@ -9,6 +9,6 @@ html, css, javascript, jquery
 #Softwarekennis
 Creative Cloud
 #Contactinformatie
-**email**: simon-de-poorter@hotmail.com 
+**email**: simon-de-poorter@hotmail.com <br>
 **tel**: 04 93 58 68 41
 
