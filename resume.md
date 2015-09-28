@@ -7,9 +7,13 @@ Geen
 * Perenplukken<br>
 * Smatch
 
-
 #Kennis webtechnologieën
-**Html5<br> Css<br> Javascript<br> Jquery<br> SQL**
+* Html5
+* Css
+* Javascript
+* Jquery
+* SQL
+
 #Softwarekennis
 **Basis**<br>After Effects Premiere Pro<br> Illustrator<br> Photoshop<br> Indesign
 #Contactinformatie
