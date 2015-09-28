@@ -7,7 +7,7 @@ Geen
 #Kennis webtechnologieën
 html, css, javascript, jquery
 #Softwarekennis
-Creative Cloud
+Basis After Effects, Premiere Pro, Illustrator, Photoshop, Indesign
 #Contactinformatie
 **email**: simon-de-poorter@hotmail.com <br>
 **tel**: 04 93 58 68 41
