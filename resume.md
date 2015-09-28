@@ -4,7 +4,7 @@ Ik ben **Simon de Poorter** en ben 19 jaar. Ik woon in Assenede en ik speel voet
 Geen
 #Werkervaring
 **vakantiejobs**<br>
-* Perenplukken<br>
+* Peren plukken<br>
 * Smatch
 
 #Kennis webtechnologieën
