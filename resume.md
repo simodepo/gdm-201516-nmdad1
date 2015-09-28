@@ -5,7 +5,7 @@ Geen
 #Werkervaring
 Geen
 #Kennis webtechnologieën
-html, css, javascript, jquery
+**Html, Css, Javascript, Jquery**
 #Softwarekennis
 Basis **After Effects, Premiere Pro, Illustrator, Photoshop, Indesign**
 #Contactinformatie
