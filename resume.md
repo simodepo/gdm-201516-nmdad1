@@ -6,6 +6,8 @@ Geen
 **vakantiejobs**<br>
 * Perenplukken<br>
 * Smatch
+* 
+
 #Kennis webtechnologieën
 **Html5<br> Css<br> Javascript<br> Jquery<br> SQL**
 #Softwarekennis
