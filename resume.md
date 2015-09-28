@@ -1,12 +1,11 @@
 #Biografie
-Ik ben **Simon de Poorter** en ben 19 jaar. Ik woon in Assenede en ik speel voetbal. Ik volg **Multimediaproductie** op campus Grafische en Digitale Media in Mariakerke.
+Ik ben **Simon de Poorter** en ben 19 jaar. Ik woon in Assenede en ik speel voetbal. Ik heb twee oudere broers, Jeroen en Bram. Ik volg **Multimediaproductie** op campus Grafische en Digitale Media in Mariakerke. 
 #Portfolio
 Geen
 #Werkervaring
 Geen
 #Kennis webtechnologieën
-html, css, *javascript
-              *jquery
+html, css, javascript, jquery
 #Softwarekennis
 Basis **After Effects, Premiere Pro, Illustrator, Photoshop, Indesign**
 #Contactinformatie
