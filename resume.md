@@ -7,9 +7,9 @@ Geen
 1. Perenplukken<br>
 2. Smatch
 #Kennis webtechnologieën
-**Html<br> Css<br> Javascript<br> Jquery<br> SQL**
+**Html5<br> Css<br> Javascript<br> Jquery<br> SQL**
 #Softwarekennis
-**Basis** + After Effects Premiere Pro<br> Illustrator<br> Photoshop<br> Indesign
+**Basis**<hr> <br>After Effects Premiere Pro<br> Illustrator<br> Photoshop<br> Indesign
 #Contactinformatie
 **email**: simon-de-poorter@hotmail.com <br>
 **tel**: 04 93 58 68 41
