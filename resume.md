@@ -9,13 +9,19 @@ Geen
 
 #Kennis webtechnologieën
 * Html5
- * Css
+* Css
 * Javascript
 * Jquery
 * SQL
 
 #Softwarekennis
-**Basis**<br>After Effects Premiere Pro<br> Illustrator<br> Photoshop<br> Indesign
+(basis)<br>
+* After Effects 
+* Premiere Pro
+* Illustrator
+* Photoshop
+* Indesign
+
 #Contactinformatie
 **email**: simon-de-poorter@hotmail.com <br>
 **tel**: 04 93 58 68 41
